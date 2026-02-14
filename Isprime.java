@@ -1,5 +1,7 @@
 
-// Find the number is prime or not.
+// Find the number is prime or not.'
+
+
 import java.util.*;
 
 public class Isprime {
